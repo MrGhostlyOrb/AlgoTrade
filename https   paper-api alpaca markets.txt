@@ -1,0 +1,11 @@
+https://paper-api.alpaca.markets
+
+PKQAVFW72ACEKAAB8WI2
+
+FnGIFzm8aFzUOYIFfSrUbPx/baDeu86e4VpVN4ZR
+
+https://medium.com/automation-generation/quick-review-of-setting-up-alpaca-api-with-python-dd31f3ac045f
+
+https://medium.com/automation-generation/hft-like-trading-algorithm-in-300-lines-of-code-you-can-run-now-983bede4f13a
+
+https://hackernoon.com/easily-build-a-stock-trading-bot-using-broker-api-6bfbdc8d48c9
